@@ -4,3 +4,5 @@ AI pipelines and relevant tools
 
 SW공학 관점: 효율성 중요시 도구셋 구성으로서 플랫폼 마련
 loosely coupled ones
+
+여러 책에 있는 내용들을 모아서 정리해 볼 것
