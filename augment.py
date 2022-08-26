@@ -1,3 +1,6 @@
+// Clodsa 파일입니다. 
+
+
 from __future__ import absolute_import
 from .augmentors.augmentorFactory import createAugmentor
 from .transformers.transformerFactory import transformerGenerator
